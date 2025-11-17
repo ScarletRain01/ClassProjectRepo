@@ -1,2 +1,2 @@
 # ClassProjectRepo
-Repository for Git-Hub project in CISI-1000 
+Repository for Git-Hub project in CSCI-1000 
